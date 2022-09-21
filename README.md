@@ -15,7 +15,7 @@
     um livro fisico na primeria compra ganhara 30% de desconto e frete gratis e a partir de mais de um livro
     o desconto sera maior os livros serão a partir de 20 reais pra cima dependendo do livro e tambem teremos versões
     em hq e gibi e voce pode sincroniza sua conta para poder seguir seus atores preferidos pra sempre ficar atualizados
-    quando eles lançar livros novos.
+    quando eles lançar livros novos.k
     
 </body>
 </html>
