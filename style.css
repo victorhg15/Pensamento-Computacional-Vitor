@@ -83,3 +83,13 @@ footer {
     text-align: center;
     font-size: 20px;
 }
+
+@media (max-width: 368px){
+    header > img {
+        width: 280px;
+    }
+
+    .principal{
+        width: 300px;
+    }
+}
